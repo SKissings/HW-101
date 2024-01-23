@@ -10,6 +10,7 @@
   ol {
     display: inline-block;
     text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   div.container {
@@ -19,6 +20,7 @@
   ul {
     display: inline-block;
     text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .button {
     border: #555;
