@@ -23,11 +23,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .button {
-    border: #555;
-    color: white;
+    border: black;
+    color: pink;
     padding: 15px 32px;
     text-align: center;
-    text-decoration-color: blueviolet;
+    text-decoration-color: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
